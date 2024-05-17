@@ -11,7 +11,6 @@
 ## Skills
 - Artificial Intelligence
 - Game Development
-- Web Development
 
 <!--
 ## Projects
