@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in Artificial Intelligence, game and web development.
-- 🌱 I’m currently learning **C++**, **C#**, and **Python**.
+- 🌱 I’m currently learning **C**, **C#**, and **Rust**.
 
 ## Contact Me
 - 📫 Reach me on Discord: username Nightmare.
