@@ -11,6 +11,9 @@
 ## Skills
 - Artificial Intelligence
 - Game Development
+- Game Theory
+- Database
+- Scripting
 
 <!--
 ## Projects
