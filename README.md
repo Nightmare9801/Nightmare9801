@@ -1,8 +1,8 @@
-# 👋 Hi, I’m @Nightmare9801
+# 👋 Hi, I’m Nightmare
 
 ## About Me
-- 👀 I’m interested in Artificial Intelligence, game and web development.
-- 🌱 I’m currently learning **C**, **C#**, and **Rust**.
+- 👀 I’m interested in everything that can be broken down into logical statements and equations.
+- 🌱 I’m currently reforging myself and my quite rusted skills after a long brreak from programming.
 
 ## Contact Me
 - 📫 Reach me on Discord: username Nightmare.
@@ -10,10 +10,8 @@
 
 ## Skills
 - Artificial Intelligence
-- Game Development
 - Game Theory
-- Database
-- Scripting
+- DSA
 
 <!--
 ## Projects
