@@ -2,7 +2,7 @@
 
 ## About Me
 - 👀 I’m interested in everything that can be broken down into logical statements and equations.
-- 🌱 I’m currently reforging myself and my quite rusted skills after a long brreak from programming.
+- 🌱 I’m currently reforging myself and my quite rusted skills after a long break from programming.
 
 ## Contact Me
 - 📫 Reach me on Discord: username Nightmare.
