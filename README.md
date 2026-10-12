@@ -5,7 +5,7 @@
 - 🌱 I’m currently reforging myself and my quite rusted skills after a long break from programming.
 
 ## Contact Me
-- 📫 Reach me on Discord: username Nightmare.
+- 📫 Reach me on Discord: username Crownless.
 - 📧 Email: navonilmandal071@gmail.com
 
 ## Skills
